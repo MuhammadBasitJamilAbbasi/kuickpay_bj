@@ -27,9 +27,7 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-to `PaymentRedirectionPage(
+`PaymentRedirectionPage(
 institutionID: '',
 kuickpaySecuredKey: '',
 orderID: '',
@@ -41,7 +39,7 @@ successUrl: '',
 failureUrl: '',
 checkouturl: '',
 orderdate_YYYY_MM_DD: '',
-),` folder.
+),`
 
 ```dart
 const like = 'sample';
