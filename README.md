@@ -4,7 +4,7 @@ Through Kuickpay, merchants can enjoy a one-in-all solution for all their paymen
 
 Ecommerce Payments
 Looking to receive payments securely for your ecommerce. Look no further than Kuickpay. Kuickpay provides robust and fast payments for your business. Kuickpay can integrate in your system or give you dashboard to monitor real time payments.
-
+--!>
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
