@@ -1,3 +1,4 @@
+## About Kuick Pay 
 <!--
 We launched Kuickpay as the nation’s largest online payment solution serving thousands of users, which is facilitating over 500 schools, housing societies, universities, E-commerce portals in Pakistan.
 Through Kuickpay, merchants can enjoy a one-in-all solution for all their payment collection woes with dedicated support.
@@ -6,9 +7,6 @@ Ecommerce Payments
 Looking to receive payments securely for your ecommerce. Look no further than Kuickpay. Kuickpay provides robust and fast payments for your business. Kuickpay can integrate in your system or give you dashboard to monitor real time payments.
 -->
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 ## Getting started
 
