@@ -26,7 +26,7 @@ TODO: List prerequisites and provide or point to information on how to
 start using the package.
 
 ## Usage
-
+```dart
 `PaymentRedirectionPage(
 institutionID: '',
 kuickpaySecuredKey: '',
@@ -39,7 +39,7 @@ successUrl: '',
 failureUrl: '',
 checkouturl: '',
 orderdate_YYYY_MM_DD: '',
-),`
+),```
 
 ```dart
 const like = 'sample';
